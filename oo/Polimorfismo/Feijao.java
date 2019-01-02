@@ -1,5 +1,5 @@
 package oo.Polimorfismo;
 
-public class Feijao {
+public class Feijao extends Comida{
 
 }
